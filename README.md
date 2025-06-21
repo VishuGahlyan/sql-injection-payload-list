@@ -96,3 +96,33 @@ Blisqy – Exploit Time-based blind-SQL-injection in HTTP-Headers (MySQL/MariaDB
 Description: HTTP headers mein time-based blind SQLi exploit karne ka tool.
 
 Link: https://github.com/epinna/blisqy
+
+## SQL Injection aur OWASP Resources
+
+### 1. Basic SQL Injection  
+- [SQL Injection (OWASP)](https://www.owasp.org/index.php/SQL_Injection)
+
+### 2. Blind SQL Injection  
+- [Blind SQL Injection (OWASP)](https://www.owasp.org/index.php/Blind_SQL_Injection)
+
+### 3. Testing for SQL Injection  
+- [Testing for SQL Injection (OTG‑INPVAL‑005)](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
+
+### 4. Bypassing WAF  
+- [SQL Injection Bypassing WAF](https://www.owasp.org/index.php/SQL_Injection_Bypassing_WAF)
+
+### 5. Code Review ke liye  
+- [Reviewing Code for SQL Injection](https://www.owasp.org/index.php/Reviewing_Code_for_SQL_Injection)
+
+### 6. PL/SQL specific  
+- [PL/SQL: SQL Injection](https://www.owasp.org/index.php/PL/SQL:SQL_Injection)
+
+### 7. NoSQL Injection Testing  
+- [Testing for NoSQL injection](https://www.owasp.org/index.php/Testing_for_NoSQL_injection)
+
+### 8. Injection Prevention Cheat Sheet  
+- [SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html)
+
+### 9. Query Parameterization  
+- [Query Parameterization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Query_Parameterization_Cheat_Sheet.html)
+
