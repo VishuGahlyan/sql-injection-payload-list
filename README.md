@@ -9,7 +9,7 @@ SQL injection ek web security vulnerability hai jo attacker ko application ke da
 
 Kuch situations mein, attacker SQL injection attack ko escalate karke underlying server ya back-end infrastructure ko compromise bhi kar sakta hai, ya denial-of-service attack bhi perform kar sakta hai.
 
-https://github.com/payloadbox/sql-injection-payload-list/blob/master/Image/sql-injection.svg
+![Alt text](https://github.com/payloadbox/sql-injection-payload-list/blob/master/Image/sql-injection.svg)
 
 # SQL Injection Types aur Unka Description:
 *1. In-band SQLi (Classic SQLi)*
